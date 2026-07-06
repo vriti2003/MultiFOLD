@@ -5,4 +5,5 @@ Optical Character Recognition (OCR) systems achieve high accuracy on clean, prin
 
 **Dataset:** [Google Drive Link](https://drive.google.com/drive/folders/1FJwgkVvaaqJwXT7RB5tFbc83HO520s2J?usp=sharing)
 
-**Please cite the work if found useful**
+[![Paper Status](https://img.shields.io/badge/Paper-Accepted_(_ICDAR_2026_)-success)](https://arxiv.org/your-link) <br>
+(Link to paper will be provided soon)
